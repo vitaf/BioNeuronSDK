@@ -1,0 +1,24 @@
+# Build
+build/
+*.o
+*.a
+*.so
+*.bin
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+_deps/
